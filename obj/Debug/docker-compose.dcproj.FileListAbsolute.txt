@@ -18,16 +18,13 @@ E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\Re
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Bogus.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\FluentValidation.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.IdentityModel.Logging.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Mapster.Core.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
-E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.Data.SqlClient.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
-E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Microsoft.Identity.Client.dll
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Api.pdb
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Application.pdb
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Presentation.pdb
@@ -36,3 +33,5 @@ E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\Re
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\obj\Debug\docker-compose.dcproj.CopyComplete
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\bin\Debug\Npgsql.dll

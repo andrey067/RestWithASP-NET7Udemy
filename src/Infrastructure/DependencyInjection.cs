@@ -16,9 +16,12 @@ namespace Infrastructure
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
             var assembly = typeof(DependencyInjection).Assembly;
- 
+
+            //services.AddDbContext<RestFullContext>(options =>
+            //options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+
             services.AddDbContext<RestFullContext>(options =>
-            options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+            options.UseNpgsql(configuration.GetConnectionString("DefaultConnection")));
 
             services.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
             services.AddScoped<IPersonRepository, PersonRepository>();

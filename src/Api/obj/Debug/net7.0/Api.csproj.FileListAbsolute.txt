@@ -376,3 +376,5 @@ E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\Re
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.pdb
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
 E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\ref\Api.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Npgsql.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
