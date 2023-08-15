@@ -1,4 +1,6 @@
-﻿using Domain.Entities;
+﻿using Bogus;
+using Domain.Entities;
+using Domain.Shared.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -11,32 +13,57 @@ namespace Infrastructure.Context
             using (var scope = serviceProvider.GetRequiredService<IServiceScopeFactory>().CreateScope())
             {
                 var dbContext = scope.ServiceProvider.GetRequiredService<RestFullContext>();
+                var cryptography = scope.ServiceProvider.GetRequiredService<ICryptography>();
 
                 if (dbContext.Database.GetPendingMigrations().Any())
-                {
                     await dbContext.Database.MigrateAsync();
-                }
 
                 if (!dbContext.Persons.Any())
                 {
-                    await dbContext.Persons.AddRangeAsync(
-                          new Person("John", "Doe", "123 Main St", "Male"),
-                          new Person("Jane", "Smith", "456 Oak Ave", "Female"),
-                          new Person("Michael", "Johnson", "789 Elm Rd", "Male"),
-                          new Person("Emily", "Brown", "567 Pine Dr", "Female"));
+                    var personFaker = new Faker<Domain.Entities.Person>()
+                 .CustomInstantiator(f => new Domain.Entities.Person(
+                     f.Person.FirstName,
+                     f.Person.LastName,
+                     f.Address.StreetAddress(),
+                     f.PickRandom("Male", "Female")
+                 ));
 
+                    var persons = personFaker.Generate(1000);
+
+                    await dbContext.Persons.AddRangeAsync(persons);
                     await dbContext.SaveChangesAsync();
                 }
 
                 if (!dbContext.Books.Any())
                 {
-                    await dbContext.Books.AddRangeAsync(
-                          new Book("Book 1", "Author 1", 19.99m, new DateTime(2023, 7, 20)),
-                          new Book("Book 2", "Author 2", 29.99m, new DateTime(2023, 7, 21)),
-                          new Book("Book 3", "Author 3", 14.99m, new DateTime(2023, 7, 22)),
-                          new Book("Book 4", "Author 4", 9.99m, new DateTime(2023, 7, 23)));
+                    var bookFaker = new Faker<Book>()
+                 .CustomInstantiator(f => new Book(
+                     f.Random.Words(2),
+                     f.Person.FullName,
+                     f.Random.Decimal(10, 100),
+                     f.Date.Past()
+                 ));
+
+                    var books = bookFaker.Generate(1000);
 
                     await dbContext.SaveChangesAsync();
+                }
+
+                if (!dbContext.Users.Any())
+                {
+                    dbContext.Users.AddRange(
+                        new User("john_doe", "John Doe", cryptography.HashPassword("hashed_password_1")),
+                                new User("jane_smith", "Jane Smith", cryptography.HashPassword("hashed_password_2")));
+
+
+                    var userFaker = new Faker<User>().CustomInstantiator(f => new User(
+                    f.Internet.UserName(),
+                    f.Person.FullName,
+                    cryptography.HashPassword(f.Internet.Password())
+                ));
+
+                    var users = userFaker.Generate(1000);
+                    dbContext.SaveChanges();
                 }
             }
         }

@@ -2,10 +2,11 @@
 using Domain.Repository;
 using Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace Infrastructure.Repositories
 {
-    public class BaseRepository<T>: IRepository<T> where T : BaseEntity
+    public class BaseRepository<T> : IRepository<T> where T : BaseEntity
     {
         private readonly RestFullContext _context;
         private readonly DbSet<T> _dataSet;
@@ -65,5 +66,25 @@ namespace Infrastructure.Repositories
         public async Task SaveAsync()
          => await _context.SaveChangesAsync();
 
+        public async Task<(IEnumerable<T>?, int count)> SelectByConditionAsync(Expression<Func<T, bool>> condition, int page, int pageSize)
+        {
+            if (page < 1)
+                throw new ArgumentException("Page number should be greater than or equal to 1.");
+
+            if (pageSize < 1)
+                throw new ArgumentException("Page size should be greater than or equal to 1.");
+
+            IQueryable<T> query = _dataSet.AsNoTracking().Where(condition);
+
+            int skip = (page - 1) * pageSize;
+
+            List<T> result = await query
+                .OrderBy(p => p.Id)
+                .Skip(skip)
+                .Take(pageSize)
+                .ToListAsync();
+
+            return (result, query.Count());
+        }
     }
 }

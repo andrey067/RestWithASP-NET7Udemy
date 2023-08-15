@@ -12,17 +12,19 @@ namespace Application.Services
 {
     public class LoginServices : ILoginServices
     {
-        private const string DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
         private readonly TokenConfigurationOptions _tokenConfiguration;
         private readonly ITokenService _tokenService;
         private readonly IUserRepository _userRepository;
+        private readonly IRepository<User> _repository;
 
-        public LoginServices(IOptions<TokenConfigurationOptions> tokenConfiguration, ITokenService tokenService)
+        public LoginServices(IOptions<TokenConfigurationOptions> tokenConfiguration, ITokenService tokenService, IRepository<User> repository, IUserRepository userRepository)
         {
             _tokenConfiguration = tokenConfiguration.Value;
             _tokenService = tokenService;
+            _repository = repository;
+            _userRepository = userRepository;
         }
-        
+
         public async Task<TokenDto> Login(UserLogingDto userLoging)
         {
             var (userIsValid, user) = await _userRepository.ValidateCredential(userLoging.UserName, userLoging.Password);
@@ -37,16 +39,16 @@ namespace Application.Services
 
             var acessToken = _tokenService.GenerateAccessToken(claims);
             var refreshToken = _tokenService.GenerateRefreshToken();
-            user.UpdateRefreshToken(refreshToken, _tokenConfiguration.DaysToExpiry);            
+            user.UpdateRefreshToken(refreshToken, _tokenConfiguration.DaysToExpiry);
 
             DateTime createDate = DateTime.UtcNow;
             DateTime expirationDate = createDate.AddMinutes(_tokenConfiguration.Minutes);
 
-            await _userRepository.RefreshToken(user);
+            await _repository.UpdateAsync(user);
 
             return new TokenDto(true, createDate, expirationDate, acessToken, refreshToken);
         }
-        
+
         public async Task<TokenDto> RefreshToken(TokenDto token)
         {
             var accssToken = token.AcessToken;
@@ -56,20 +58,31 @@ namespace Application.Services
 
             var userName = principal.Identity!.Name;
 
-            var user = await _userRepository.GetUserByUserName(userName);
+            var user = await _userRepository.GetUserByUserName(userName!);
             if (ValidateRefreshToken(refreshToken, user))
                 return null;
 
             accssToken = _tokenService.GenerateAccessToken(principal.Claims);
-
             refreshToken = _tokenService.GenerateRefreshToken();
+
+            user.UpdateRefreshToken(refreshToken, _tokenConfiguration.DaysToExpiry);
+            await _repository.UpdateAsync(user!);
+
             DateTime createDate = DateTime.UtcNow;
             DateTime expirationDate = createDate.AddMinutes(_tokenConfiguration.Minutes);
 
-            await _userRepository.RefreshToken(user);
-
             return new TokenDto(true, createDate, expirationDate, accssToken, refreshToken);
+        }
 
+        public async Task<bool> RevokeToken(string username)
+        {
+            var user = await _userRepository.GetUserByUserName(username);
+            if (user is null)
+                return false;
+
+            user.RevokeToken();
+            await _repository.UpdateAsync(user);
+            return true;
         }
 
         private static bool ValidateRefreshToken(string refreshToken, User? user)

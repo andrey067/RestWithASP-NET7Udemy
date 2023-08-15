@@ -1,5 +1,6 @@
 ﻿using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace Domain.Repository
 {
@@ -19,5 +20,7 @@ namespace Domain.Repository
 
         DbSet<T> GetDbSet();
         Task SaveAsync();
+
+        Task<(IEnumerable<T>?, int count)> SelectByConditionAsync(Expression<Func<T, bool>> condition, int page, int pageSize);
     }
 }

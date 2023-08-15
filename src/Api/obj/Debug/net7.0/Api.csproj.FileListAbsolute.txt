@@ -186,3 +186,194 @@ E:\Estudo\Net Core\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\
 E:\Estudo\Net Core\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
 E:\Estudo\Net Core\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\ref\Api.dll
 E:\Estudo\Net Core\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Estudo\Net Core\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Bogus.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\appsettings.Development.json
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\appsettings.json
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.exe
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.deps.json
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.runtimeconfig.json
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Azure.Core.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Bogus.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\EntityFramework.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\FluentValidation.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Mapster.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Mapster.Core.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Application.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Domain.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Infrastructure.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Presentation.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Application.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Infrastructure.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Presentation.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Domain.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Api.props
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api.props
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\scopedcss\bundle\Api.styles.css
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.csproj.CopyComplete
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\refint\Api.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\ref\Api.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\appsettings.Development.json
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\appsettings.json
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.exe
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.deps.json
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.runtimeconfig.json
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Api.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Azure.Core.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Bogus.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\EntityFramework.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\FluentValidation.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Mapster.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Mapster.Core.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Application.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Domain.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Infrastructure.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Presentation.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Application.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Infrastructure.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Presentation.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\bin\Debug\net7.0\Domain.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Api.props
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api.props
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\scopedcss\bundle\Api.styles.css
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.csproj.CopyComplete
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\refint\Api.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Api\obj\Debug\net7.0\ref\Api.dll

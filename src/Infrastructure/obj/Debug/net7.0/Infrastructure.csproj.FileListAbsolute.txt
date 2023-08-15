@@ -36,3 +36,41 @@ E:\Estudo\Net Core\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\
 E:\Estudo\Net Core\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 E:\Estudo\Net Core\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
 E:\Estudo\Net Core\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Application.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Domain.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Application.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Domain.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+E:\Estudo\Net Core\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Application.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Domain.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Application.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\bin\Debug\net7.0\Domain.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

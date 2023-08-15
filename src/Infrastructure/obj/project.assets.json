@@ -46,6 +46,19 @@
           }
         }
       },
+      "Bogus/34.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Bogus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Bogus.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "EntityFramework/6.4.4": {
         "type": "package",
         "dependencies": {
@@ -1816,6 +1829,25 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Bogus/34.0.2": {
+      "sha512": "2KQAuMn3fLAQ2r6jeiffZnpv0bi3GCW3iRB2v1KeHIEBu8MNTh9dBlLTZwGvM0pr+9doKkU8L5JgCURmTmT88A==",
+      "type": "package",
+      "path": "bogus/34.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bogus.34.0.2.nupkg.sha512",
+        "bogus.nuspec",
+        "lib/net40/Bogus.dll",
+        "lib/net40/Bogus.xml",
+        "lib/net6.0/Bogus.dll",
+        "lib/net6.0/Bogus.xml",
+        "lib/netstandard1.3/Bogus.dll",
+        "lib/netstandard1.3/Bogus.xml",
+        "lib/netstandard2.0/Bogus.dll",
+        "lib/netstandard2.0/Bogus.xml"
       ]
     },
     "EntityFramework/6.4.4": {
@@ -4935,6 +4967,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Application >= 1.0.0",
+      "Bogus >= 34.0.2",
       "Domain >= 1.0.0",
       "Mapster >= 7.3.0",
       "Microsoft.EntityFrameworkCore >= 7.0.9",
@@ -4946,23 +4979,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {},
+    "C:\\Users\\audre.AUDREY\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Estudo\\Net Core\\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\\RestWithASP-NET7Udemy\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "E:\\Estudo\\NetCore\\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\\RestWithASP-NET7Udemy\\src\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "E:\\Estudo\\Net Core\\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\\RestWithASP-NET7Udemy\\src\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "E:\\Estudo\\Net Core\\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\\RestWithASP-NET7Udemy\\src\\Infrastructure\\obj\\",
+      "projectPath": "E:\\Estudo\\NetCore\\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\\RestWithASP-NET7Udemy\\src\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\audre.AUDREY\\.nuget\\packages\\",
+      "outputPath": "E:\\Estudo\\NetCore\\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\\RestWithASP-NET7Udemy\\src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\audre.AUDREY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4978,11 +5011,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Estudo\\Net Core\\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\\RestWithASP-NET7Udemy\\src\\Application\\Application.csproj": {
-              "projectPath": "E:\\Estudo\\Net Core\\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\\RestWithASP-NET7Udemy\\src\\Application\\Application.csproj"
+            "E:\\Estudo\\NetCore\\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\\RestWithASP-NET7Udemy\\src\\Application\\Application.csproj": {
+              "projectPath": "E:\\Estudo\\NetCore\\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\\RestWithASP-NET7Udemy\\src\\Application\\Application.csproj"
             },
-            "E:\\Estudo\\Net Core\\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\\RestWithASP-NET7Udemy\\src\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\Estudo\\Net Core\\REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker\\RestWithASP-NET7Udemy\\src\\Domain\\Domain.csproj"
+            "E:\\Estudo\\NetCore\\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\\RestWithASP-NET7Udemy\\src\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Estudo\\NetCore\\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\\RestWithASP-NET7Udemy\\src\\Domain\\Domain.csproj"
             }
           }
         }
@@ -4997,6 +5030,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "Bogus": {
+            "target": "Package",
+            "version": "[34.0.2, )"
+          },
           "Mapster": {
             "target": "Package",
             "version": "[7.3.0, )"
@@ -5046,7 +5083,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
       }
     }
   }

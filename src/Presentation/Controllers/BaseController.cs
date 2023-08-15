@@ -17,13 +17,13 @@ namespace Presentation.Controllers
             string controllerName = typeof(TEntity).Name.ToLower();
 
             routes.MapGet($"/get-all", GetAll<TEntity, TResult>)
-            .WithName($"GetAll{controllerName}");
+                  .WithName($"GetAll{controllerName}");
 
             routes.MapGet("/{id}", GetById<TEntity, TResult>)
-                .WithName($"GetById{controllerName}");
+                  .WithName($"GetById");
 
             routes.MapDelete("/{id}", Delete<TEntity, TResult>)
-                .WithName($"Delete{controllerName}");
+                  .WithName($"Delete");
 
             return routes;
         }

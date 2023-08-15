@@ -12,7 +12,8 @@ namespace Presentation.Configuration
     {
         public static IServiceCollection AddJwtConfigurations(this IServiceCollection services, IConfiguration configuration)
         {
-            services.Configure<TokenConfigurationOptions>(configuration.GetSection(TokenConfigurationOptions.TokenConfiguration));
+            var tokenConfigurationOptions = new TokenConfigurationOptions();
+            configuration.GetSection(TokenConfigurationOptions.TokenConfiguration).Bind(tokenConfigurationOptions);
 
             services.AddAuthentication(options =>
             {
@@ -22,17 +23,15 @@ namespace Presentation.Configuration
             {
                 options.TokenValidationParameters = new TokenValidationParameters
                 {
-                    ValidateIssuer = true,
-                    ValidateAudience = true,
-                    ValidateLifetime = true,
                     ValidateIssuerSigningKey = true,
-                    ValidIssuer = configuration.GetValue<string>("TokenConfigurationOptions:ValidIssuer"),
-                    ValidAudience = configuration.GetValue<string>("TokenConfigurationOptions:ValidAudience"),
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("Secrect TokenOptons"))
-
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(tokenConfigurationOptions.Secret)),
+                    ValidateIssuer = false,
+                    ValidateAudience = false,
+                    ValidateLifetime = true,
+                    //ValidIssuer = configuration.GetValue<string>("TokenConfigurationOptions:ValidIssuer"),
+                    //ValidAudience = configuration.GetValue<string>("TokenConfigurationOptions:ValidAudience"),
                 };
             });
-
 
             services.AddAuthorization(options =>
             {

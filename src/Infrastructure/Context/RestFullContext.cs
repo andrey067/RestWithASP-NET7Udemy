@@ -9,6 +9,7 @@ namespace Infrastructure.Context
         public RestFullContext() { }
         public DbSet<Person> Persons { get; set; }
         public DbSet<Book> Books { get; set; }
+        public DbSet<User> Users { get; set; }
 
         public RestFullContext(DbContextOptions<RestFullContext> options) : base(options) { }
 

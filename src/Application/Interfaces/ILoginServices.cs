@@ -6,5 +6,6 @@ namespace Application.Interfaces
     {
         Task<TokenDto> Login(UserLogingDto userLoging);
         Task<TokenDto> RefreshToken(TokenDto token);
+        Task<bool> RevokeToken(string username);
     }
 }

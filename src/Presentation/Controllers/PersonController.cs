@@ -14,11 +14,17 @@ namespace Presentation.Controllers
         {
             routers.MapBaseController<Person, PersonDto>();
 
-            routers.MapPost("/", Post).WithName("CreatePerson");
+            routers.MapPost("/", Post)
+                   .WithName("CreatePerson");
 
             routers.MapPut($"/update-{typeof(Person).Name.ToLower()}", Put)
                    .WithName($"Update{nameof(Person)}");
 
+            routers.MapPatch($"/chagestatus", Patch)
+                   .WithName($"ChageStatus");
+
+            routers.MapGet("/findbyname/{pageSize}/{page}", FindByName)
+                   .WithName("FindByName");
             return routers;
         }
 
@@ -40,6 +46,18 @@ namespace Presentation.Controllers
             }
             await personBusiness.Update(person);
             return Results.Ok();
+        }
+
+        public static async Task<IResult> Patch([FromServices] IPersonBusiness personBusiness, [FromBody] long id, bool status)
+        {
+            var person = await personBusiness.ChageStatus(id, status);
+            return Results.Ok(person);
+        }
+
+        public static async Task<IResult> FindByName([FromServices] IPersonBusiness personBusiness, [FromQuery] string? firtsName, string? lastName, int page, int pageSize)
+        {
+            var (person, count) = await personBusiness.FindByName(firtsName, lastName, page, pageSize);
+            return Results.Ok(new { data = person, Count = count });
         }
     }
 }

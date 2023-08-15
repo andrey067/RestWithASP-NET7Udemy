@@ -1,6 +1,9 @@
 ﻿using Application.Interfaces;
 using Application.Services;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
+using Microsoft.AspNetCore.Mvc.Routing;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -15,20 +18,32 @@ namespace Presentation
         {
             services.AddScoped(typeof(IBaseService<,>), typeof(BaseService<,>));
             services.AddScoped<IPersonBusiness, PersonBusiness>();
+
+            services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDocsConfiguration();
+                options.SwaggerSecurityConfiguration();
+            });
+
+            services.AddOptionsConfigurations(configuration);
             services.AddJwtConfigurations(configuration);
+
             return services;
         }
 
         public static IEndpointRouteBuilder ConfigureEndpoints(this IEndpointRouteBuilder routers)
         {
             routers.MapGroup("/api/user")
-                   .AllowAnonymous()
                    .MapUserController()
                    .MapSwagger();
 
-            routers.MapGroup("/api/person").RequireAuthorization("Bearer")
-                                           .MapPersonController()
-                                           .MapSwagger();
+            routers.MapGroup("/api/person")
+                   .RequireAuthorization()
+                   .MapPersonController()
+                   .MapSwagger();
+
+            routers.MapGroup("/api/file")
+                   .MapFileController();
 
             return routers;
         }

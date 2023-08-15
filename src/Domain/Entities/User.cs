@@ -8,16 +8,16 @@ namespace Domain.Entities
         public string UserName { get; private set; }
         public string FullName { get; private set; }
         public string Password { get; private set; }
-        public string RefreshToken { get; private set; }
+        public string RefreshToken { get; private set; } = string.Empty;
         public DateTime RefreshTokenExpyTime { get; private set; }
 
-        public User(string userName, string fullName, string password, string refreshToken, DateTime refreshTokenExpyTime)
+        private User() { }
+
+        public User(string userName, string fullName, string password)
         {
             UserName = userName;
             FullName = fullName;
             Password = password;
-            RefreshToken = refreshToken;
-            RefreshTokenExpyTime = refreshTokenExpyTime;
         }
 
         // Method to update the UserName
@@ -43,11 +43,13 @@ namespace Domain.Entities
 
         // Method to update the RefreshToken
         public void UpdateRefreshToken(string newRefreshToken, int daysToExpiry)
-        {            
+        {
             RefreshToken = newRefreshToken;
             RefreshTokenExpyTime = DateTime.UtcNow.AddDays(daysToExpiry);
-        }            
-        
+        }
+
+        public void RevokeToken() => RefreshToken = string.Empty;
+
         public void Validar()
             => Validate(new UserValidator(), this);
     }
