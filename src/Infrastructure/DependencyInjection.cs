@@ -16,7 +16,7 @@ namespace Infrastructure
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
             var assembly = typeof(DependencyInjection).Assembly;
-
+ 
             services.AddDbContext<RestFullContext>(options =>
             options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 

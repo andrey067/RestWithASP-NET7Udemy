@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Context
 {
-    public class RestFullContext: DbContext
+    public class RestFullContext : DbContext
     {
         public RestFullContext() { }
         public DbSet<Person> Persons { get; set; }
@@ -15,7 +15,7 @@ namespace Infrastructure.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);            
+            base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfiguration(new PersonConfiguration());
             modelBuilder.ApplyConfiguration(new BookConfiguration());
         }

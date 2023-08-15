@@ -43,15 +43,15 @@ namespace Presentation.Configuration
 
         public static WebApplication ConfigureSwaggerJson(this WebApplication app)
         {
-            if (app.Environment.IsDevelopment())
-            {
+            //if (app.Environment.IsDevelopment())
+            //{
                 app.UseSwagger();
                 app.UseSwaggerUI(c =>
                 {
                     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Curso API RestFull");
                     c.RoutePrefix = "swagger";
                 });
-            }
+            //}
 
             return app;
         }

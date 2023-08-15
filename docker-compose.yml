@@ -1,0 +1,31 @@
+version: '3.4'
+
+services:
+  api:
+    image: api
+    build:
+      context: .
+      dockerfile: src/Api/Dockerfile
+    environment:
+      TZ: America/Sao_Paulo
+      TokenConfiguration__Audience: "MinhaAplicacao"
+      TokenConfiguration__Issuer: "MeuServidorDeAutenticacao"
+      TokenConfiguration__Secret: "b14d70c2-d2ce-489b-abb8-d33b1e6a0909"
+      TokenConfiguration__Minutes: 30
+      TokenConfiguration__DaysToExpiry: 7
+      ConnectionStrings__DefaultConnection: "server=sqlserver,1433;database=rest_with_asp_net_udemy;user id=sa;password=Numsey#2021;TrustServerCertificate=True;Encrypt=False;"
+    ports:
+      - 7026:80
+    depends_on:
+      - sqlserver
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server
+    hostname: 'sqlserver'
+    environment:
+      ACCEPT_EULA: 'Y'
+      SA_PASSWORD: "Numsey#2021"
+    ports:
+      - '1433:1433'
+networks:
+  udemy-network:
+    driver: bridge
