@@ -1,4 +1,5 @@
 # .NET Core 7
+
 ## Build artifacts
 *.dll
 *.exe
@@ -7,12 +8,15 @@
 *.exe.config
 *.runtimeconfig.json
 *.deps.json
-/
 
 ## Test Results
 TestResults/
+TestResults.xml
 
 ## .NET Core project files
+**/obj/
+**/bin/
+**/*.nupkg
 *.obj
 *.cache
 *.jfm
@@ -26,9 +30,7 @@ TestResults/
 *_p.c
 *.ilk
 *.meta
-*.obj
 *.pch
-*.pdb
 *.pgc
 *.pgd
 *.rsp
@@ -39,11 +41,9 @@ TestResults/
 *.tmp
 *.tmp_proj
 *.pidb
-*.log
 *.vspscc
 *.vssscc
 .builds
-*.pidb
 *.svclog
 *.suo
 *.user
@@ -52,20 +52,15 @@ TestResults/
 *.[Cc]ache
 *.bak
 *.cachefile
-*.ilk
 *.local.*
 *.ncb
-*.obj
 *.opendb
-*.pidb
 *.psess
 *.publish.xml
 *.scc
 *.sln.docstates
-*.suo
 *.tlog
 *.trx
-*.vbw
 *.vsdconfig
 *.vsmdi
 *.vsmproj
@@ -82,3 +77,22 @@ TestResults/
 .idea/
 *.sln.iml
 *_ReSharper.*
+
+# User-specific files
+.vscode/
+.vs
+.vscode/
+.vscode/settings.json
+
+# Compiled files
+bin/
+obj/
+
+# Logs and testing artifacts
+*.log.*
+
+# .NET Core and Visual Studio files
+.project.lock.json
+*.ncb
+*.local.*
+*.nupkg

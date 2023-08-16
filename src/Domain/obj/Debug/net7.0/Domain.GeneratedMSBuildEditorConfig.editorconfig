@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain
-build_property.ProjectDir = e:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Domain\
+build_property.ProjectDir = E:\Estudo\NetCore\REST_APIs_RESTFul_do_0_à_Azure_com_ASP.NET_Core_5_e_Docker\RestWithASP-NET7Udemy\src\Domain\
